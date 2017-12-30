@@ -41,3 +41,11 @@ console.log(number);
 divideBy3();
 
 console.log(number);
+
+function inc(n) {
+  return n++;
+}
+
+function dec(n) {
+  return n--;
+}
