@@ -43,9 +43,9 @@ divideBy3();
 console.log(number);
 
 function inc(n) {
-  return n++;
+  return n +=1;
 }
 
 function dec(n) {
-  return n--;
+  return n -= 1;
 }
