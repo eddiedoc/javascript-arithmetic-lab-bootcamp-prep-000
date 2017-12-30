@@ -1,15 +1,15 @@
-function add() {
-  return 1 + 80; //81
+function add(a,b) {
+  return a + b;
 }
 
-function subtract() {
-  return 60 - 40; // 20
+function subtract(a,b) {
+  return a - b;
 }
 
-function multiply() {
-  return 2 * 3.4; // 6.8
+function multiply(a,b) {
+  return a * b;
 }
 
-function  divide() {
-  return 5.0 / 2.5; // 2
+function  divide(a,b) {
+  return a / b;
 }
